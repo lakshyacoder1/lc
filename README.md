@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyacoder1/lc/tree/master/0011-container-with-most-water) |
+| [0053-maximum-subarray](https://github.com/lakshyacoder1/lc/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/lakshyacoder1/lc/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -29,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lakshyacoder1/lc/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/lakshyacoder1/lc/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
