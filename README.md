@@ -41,5 +41,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lakshyacoder1/lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lakshyacoder1/lc/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 <!---LeetCode Topics End-->
