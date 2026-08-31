@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyacoder1/lc/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/lakshyacoder1/lc/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lakshyacoder1/lc/tree/master/0053-maximum-subarray) |
 | [0162-find-peak-element](https://github.com/lakshyacoder1/lc/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/lakshyacoder1/lc/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/lakshyacoder1/lc/tree/master/0042-trapping-rain-water) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/lakshyacoder1/lc/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lakshyacoder1/lc/tree/master/0053-maximum-subarray) |
 ## Math
 |  |
@@ -52,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/lakshyacoder1/lc/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/lakshyacoder1/lc/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
