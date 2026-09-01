@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/lakshyacoder1/lc/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lakshyacoder1/lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lakshyacoder1/lc/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/lakshyacoder1/lc/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
 ## Stack
 |  |
