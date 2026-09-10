@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshyacoder1/lc/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/lakshyacoder1/lc/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/lakshyacoder1/lc/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/lakshyacoder1/lc/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/lakshyacoder1/lc/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshyacoder1/lc/tree/master/3875-construct-uniform-parity-array-i) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lakshyacoder1/lc/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/lakshyacoder1/lc/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
 | [0461-hamming-distance](https://github.com/lakshyacoder1/lc/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lakshyacoder1/lc/tree/master/2220-minimum-bit-flips-to-convert-number) |
