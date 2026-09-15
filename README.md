@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/lakshyacoder1/lc/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lakshyacoder1/lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2235-add-two-integers](https://github.com/lakshyacoder1/lc/tree/master/2235-add-two-integers) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lakshyacoder1/lc/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshyacoder1/lc/tree/master/3875-construct-uniform-parity-array-i) |
 ## Bit Manipulation
