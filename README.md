@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/lakshyacoder1/lc/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lakshyacoder1/lc/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshyacoder1/lc/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/lakshyacoder1/lc/tree/master/3895-count-digit-appearances) |
 ## Binary Search
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/lakshyacoder1/lc/tree/master/2413-smallest-even-multiple) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/lakshyacoder1/lc/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshyacoder1/lc/tree/master/3875-construct-uniform-parity-array-i) |
+| [3895-count-digit-appearances](https://github.com/lakshyacoder1/lc/tree/master/3895-count-digit-appearances) |
 ## Bit Manipulation
 |  |
 | ------- |
