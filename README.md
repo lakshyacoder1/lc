@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lakshyacoder1/lc/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lakshyacoder1/lc/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshyacoder1/lc/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/lakshyacoder1/lc/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyacoder1/lc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0142-linked-list-cycle-ii](https://github.com/lakshyacoder1/lc/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/lakshyacoder1/lc/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/lakshyacoder1/lc/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/lakshyacoder1/lc/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
 | [0836-rectangle-overlap](https://github.com/lakshyacoder1/lc/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lakshyacoder1/lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -137,4 +140,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/lakshyacoder1/lc/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/lakshyacoder1/lc/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
