@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/lakshyacoder1/lc/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/lakshyacoder1/lc/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/lakshyacoder1/lc/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/lakshyacoder1/lc/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyacoder1/lc/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/lakshyacoder1/lc/tree/master/0142-linked-list-cycle-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
@@ -127,4 +129,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/lakshyacoder1/lc/tree/master/1920-build-array-from-permutation) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/lakshyacoder1/lc/tree/master/0142-linked-list-cycle-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/lakshyacoder1/lc/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
