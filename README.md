@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/lakshyacoder1/lc/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/lakshyacoder1/lc/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/lakshyacoder1/lc/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/lakshyacoder1/lc/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/lakshyacoder1/lc/tree/master/0643-maximum-average-subarray-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/lakshyacoder1/lc/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/lakshyacoder1/lc/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
@@ -48,12 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/lakshyacoder1/lc/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/lakshyacoder1/lc/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/lakshyacoder1/lc/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lakshyacoder1/lc/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/lakshyacoder1/lc/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/lakshyacoder1/lc/tree/master/0050-powx-n) |
 | [0202-happy-number](https://github.com/lakshyacoder1/lc/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
 | [0836-rectangle-overlap](https://github.com/lakshyacoder1/lc/tree/master/0836-rectangle-overlap) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/lakshyacoder1/lc/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/lakshyacoder1/lc/tree/master/2235-add-two-integers) |
@@ -83,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/lakshyacoder1/lc/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/lakshyacoder1/lc/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/lakshyacoder1/lc/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lakshyacoder1/lc/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
