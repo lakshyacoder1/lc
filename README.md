@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lakshyacoder1/lc/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/lakshyacoder1/lc/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/lakshyacoder1/lc/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lakshyacoder1/lc/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/lakshyacoder1/lc/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/lakshyacoder1/lc/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/lakshyacoder1/lc/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lakshyacoder1/lc/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/lakshyacoder1/lc/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/lakshyacoder1/lc/tree/master/0461-hamming-distance) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/lakshyacoder1/lc/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lakshyacoder1/lc/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/lakshyacoder1/lc/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/lakshyacoder1/lc/tree/master/0058-length-of-last-word) |
+| [0389-find-the-difference](https://github.com/lakshyacoder1/lc/tree/master/0389-find-the-difference) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/lakshyacoder1/lc/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Quicksort
 |  |
