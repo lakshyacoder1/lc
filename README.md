@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/lakshyacoder1/lc/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/lakshyacoder1/lc/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1920-build-array-from-permutation](https://github.com/lakshyacoder1/lc/tree/master/1920-build-array-from-permutation) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/lakshyacoder1/lc/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/lakshyacoder1/lc/tree/master/3875-construct-uniform-parity-array-i) |
 | [3895-count-digit-appearances](https://github.com/lakshyacoder1/lc/tree/master/3895-count-digit-appearances) |
 ## Binary Search
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/lakshyacoder1/lc/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lakshyacoder1/lc/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lakshyacoder1/lc/tree/master/0567-permutation-in-string) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/lakshyacoder1/lc/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
